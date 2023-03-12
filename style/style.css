@@ -36,9 +36,11 @@ ul{
 ul a:link, ul a:visited{
     text-align: center;
     background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 20px;
 }
 ul a:hover{
     background-color: rgba(129, 129, 129, 0.5);
+    border-radius: 20px;
 }
 nav{
     width: 30%;
@@ -57,6 +59,9 @@ footer{
     padding-left: 2%;
     padding: 5px;
     margin-top: 15px;
+}
+.stopa{
+    text-align: center;
 }
 
 @media screen and (max-width: 480px) {
