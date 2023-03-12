@@ -35,11 +35,11 @@ ul{
 }
 ul a:link, ul a:visited{
     text-align: center;
-    background-color: rgba(255, 255, 255, 0.5);
+    background-color: rgba(255, 255, 255, 0.7);
     border-radius: 20px;
 }
 ul a:hover{
-    background-color: rgba(129, 129, 129, 0.5);
+    background-color: rgba(129, 129, 129, 0.7);
     border-radius: 20px;
 }
 nav{
@@ -47,14 +47,14 @@ nav{
     padding-top: 30px;
 }
 main{
-    background-color: rgba(255, 255, 255, 0.5);
+    background-color: rgba(255, 255, 255, 0.7);
     border-radius: 20px;
     padding-left: 2%;
     padding: 5px;
     margin-top: 10px;
 }
 footer{
-    background-color: rgba(255, 255, 255, 0.5);
+    background-color: rgba(255, 255, 255, 0.7);
     border-radius: 20px;
     padding-left: 2%;
     padding: 5px;
