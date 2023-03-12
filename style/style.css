@@ -16,6 +16,7 @@ html{
 }
 p{
     font-family: 'Roboto Slab', serif;
+    font-size: 15px;
 }
 .banner{
     width: 30%;
